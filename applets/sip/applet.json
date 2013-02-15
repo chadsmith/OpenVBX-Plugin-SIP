@@ -1,0 +1,5 @@
+{
+	"name" : "SIP",
+	"description" : "Dial an SIP phone.",
+  "type" : "voice"
+}

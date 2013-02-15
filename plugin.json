@@ -1,0 +1,6 @@
+{
+    "name" : "SIP",
+    "author" : "Chad Smith <chad@nospam.me>",
+    "description" : "Call an SIP endpoint from the dial applet.",
+    "url" : "http://twitter.com/chadsmith"
+}
