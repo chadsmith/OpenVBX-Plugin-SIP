@@ -2,15 +2,11 @@
 
 Call SIP endpoints from OpenVBX.
 
-SIP will need to be enabled on your Twilio account for this plugin to work. Sign up for the Twilio's SIP beta program [here][1].
-
-[1]: http://www.twilio.com/beta/sip
-
 ## Installation
 
-[Download][2] the plugin and extract to /plugins
+[Download][1] the plugin and extract to /plugins
 
-[2]: https://github.com/chadsmith/OpenVBX-Plugin-SIP/archives/master
+[1]: https://github.com/chadsmith/OpenVBX-Plugin-SIP/archives/master
 
 ## Usage
 
